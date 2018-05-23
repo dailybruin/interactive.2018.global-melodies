@@ -6,5 +6,5 @@ Can be found [here](https://www.figma.com/file/dNISwCLul00ff6pIxWUTncbw/Global-M
 ## Development
 1. `git clone` this repo onto your computer.
 2. `cd` into the new folder and run `yarn`
-3. `yarn dev` will start the development server. Happy coding!
+3. `yarn watch` will start the development server. Happy coding!
 

@@ -1,0 +1,20 @@
+{
+  "pieces": [
+    {
+      "Id": "klezmer",
+      "Title": "Klezmer Music Ensemble",
+      "Youtube": "(n/a)",
+      "Blurb": "",
+      "Link": "https://dailybruin.com/2018/04/05/ucla-klezmer-music-ensemble-aims-to-revive-culture-through-performances/",
+      "Image": "http://dailybruin.com/images/2018/05/web.news_.WFwviaendorsement.JP_1-640x426.jpg"
+    },
+    {
+      "Id": "tester",
+      "Title": "Tester",
+      "Youtube": "dTbbyfHKo7k",
+      "Blurb": "Test blurb isn't this fun Test blurb isn't this funTest blurb isn't this funTest blurb isn't this funTest blurb isn't this funTest blurb isn't this funTest blurb isn't this funTest blurb isn't this fun",
+      "Link": "https://dailybruin.com/2018/04/05/ucla-klezmer-music-ensemble-aims-to-revive-culture-through-performances/",
+      "Image": ""
+    }
+  ]
+}
